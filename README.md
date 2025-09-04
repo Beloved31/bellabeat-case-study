@@ -64,7 +64,7 @@ The final deliverables include a **report, presentation slides, cleaned dataset,
 
 ## 📊 Deliverables
 - 📄 [Full Report (PDF)](https://github.com/Beloved31/bellabeat-case-study/blob/main/Bellabeat%20Presentation.pptx) 
-- 🖥️ [Slide Deck (HTML)](./bellabeat_case_study_slides.html)  
+- 🖥️ [Slide Deck (HTML)](https://github.com/Beloved31/bellabeat-case-study/blob/main/Bellabeat%20Project.pdf))  
 - 📂 [Cleaned Dataset on Kaggle](https://www.kaggle.com/yourusername/bellabeat-fitbit-cleaned)  
 - 📊 [Analysis Notebook on Kaggle](https://www.kaggle.com/code/beloved19/bellabeat-case-study-data-analytics-capstone) 
 
